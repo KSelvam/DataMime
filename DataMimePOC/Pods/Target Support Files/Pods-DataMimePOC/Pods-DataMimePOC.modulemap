@@ -1,0 +1,6 @@
+framework module Pods_DataMimePOC {
+  umbrella header "Pods-DataMimePOC-umbrella.h"
+
+  export *
+  module * { export * }
+}
